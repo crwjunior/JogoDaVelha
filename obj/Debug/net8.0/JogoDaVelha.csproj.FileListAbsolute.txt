@@ -1,0 +1,183 @@
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.AssemblyReference.cache
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfo.cs
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\appsettings.Development.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\appsettings.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.staticwebassets.endpoints.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.exe
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.deps.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.runtimeconfig.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.pdb
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Azure.Core.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Azure.Identity.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.ClientModel.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Text.Json.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\scopedcss\bundle\JogoDaVelha.styles.css
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.build.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.development.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVe.D3C8D1FC.Up2Date
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Npgsql.dll
+D:\ProjetoTransObra\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\appsettings.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.staticwebassets.endpoints.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.exe
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.deps.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.runtimeconfig.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.pdb
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Npgsql.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.sourcelink.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\scopedcss\bundle\JogoDaVelha.styles.css
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVe.D3C8D1FC.Up2Date
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll

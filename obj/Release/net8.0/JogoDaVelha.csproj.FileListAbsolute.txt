@@ -1,0 +1,9 @@
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\júnior witt\Documents\git\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Release\net8.0\JogoDaVelha.sourcelink.json
