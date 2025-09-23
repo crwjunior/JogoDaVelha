@@ -14,7 +14,6 @@ namespace JogoDaVelha.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Configuração Users
             modelBuilder.Entity<User>(entity =>
             {
                 entity.ToTable("users");
@@ -27,7 +26,6 @@ namespace JogoDaVelha.Data
                 entity.Property(u => u.IsActive).HasColumnName("is_active");
             });
 
-            // Configuração Games
             modelBuilder.Entity<Game>(entity =>
             {
                 entity.ToTable("games");

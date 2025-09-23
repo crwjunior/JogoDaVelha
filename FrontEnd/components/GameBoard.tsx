@@ -46,13 +46,6 @@ export default function GameBoard({ jogadores = { x: "Jogador X", o: "Jogador O"
           </button>
         ))}
       </div>
-
-      <button
-        onClick={onReset}
-        className="px-8 py-4 text-white font-semibold text-lg rounded-xl bg-gradient-to-r from-black hover:from-purple-700 hover:to-purple-800 transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-purple-500/25"
-      >
-        Reiniciar Jogo
-      </button>
     </div>
   );
 }

@@ -77,12 +77,12 @@ export default function JogoDaVelha() {
       const newBoard = result.boardState.split("").map((c: string) => (c === "-" ? null : c));
       setBoard(newBoard);
 
-      if (result.winner) {
-        const winnerName = result.winner === "X" ? playerX.name : playerO.name;
-        setWinner(winnerName);
-      } else if (result.movesCount >= 9) {
-        setWinner("Empate");
-        console.log("Empate detectado");
+      if (result.winner === "X") {
+        setWinner(playerX.name);
+      } else if (result.winner === "O") {
+        setWinner(playerO.name);
+      } else if (result.winner === "DRAW") {
+        setWinner("DRAW");
       } else {
         setCurrentPlayer(currentPlayer === "x" ? "o" : "x");
       }
@@ -107,7 +107,7 @@ export default function JogoDaVelha() {
     return (
       <div className="flex items-center justify-center min-h-screen bg-gradient-to-br">
         <div className="p-8 w-96 rounded-3xl shadow-2xl border border-black">
-          <h2 className="text-black text-3xl mb-8 text-center font-bold">Configurar Jogadores</h2>
+          <h2 className="text-black text-3xl mb-8 text-center font-bold">Nome dos jogadores:</h2>
 
           <div className="space-y-6">
             <div>
@@ -133,14 +133,14 @@ export default function JogoDaVelha() {
             <button
               onClick={startGame}
               disabled={!jogadorX || !jogadorO}
-              className="w-full py-4 rounded-xl bg-gradient-to-r from-yellow-600 to-black disabled:from-gray-600 disabled:to-gray-700 disabled:cursor-not-allowed text-white font-semibold text-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-purple-500/25"
+              className="w-full py-4 rounded-xl bg-gradient-to-r from-yellow-700 to-black disabled:cursor-not-allowed text-white font-semibold text-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-purple-500/25"
             >
               Iniciar Jogo
             </button>
 
             <button
               onClick={() => window.location.href = "/ultimos-vencedores"}
-              className="w-full py-4 rounded-xl bg-gradient-to-r from-yellow-600 to-black text-white font-semibold text-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-yellow-500/25"
+              className="w-full py-4 rounded-xl bg-gradient-to-r from-yellow-700 to-black text-white font-semibold text-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-yellow-500/25"
             >
               Últimos Vencedores
             </button>
@@ -170,7 +170,7 @@ export default function JogoDaVelha() {
         {winner ? (
           <div className="text-center">
             <h2 className={`text-3xl font-bold mb-2 ${winner === playerX?.name ? "text-red-800" : winner === playerO?.name ? "text-green-800" : "text-red-800"}`}>
-              {winner === "Empate" ? "Empate!" : `Vencedor: ${winner}`}
+              {winner === "DRAW" ? "Empate!" : `Vencedor: ${winner}`}
             </h2>
           </div>
         ) : (
